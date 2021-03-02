@@ -1,2 +1,4 @@
 # kaldi-wasm-zips
-for kaldi-wasm
+the models and depends for kaldi-wasm
+
+https://github.com/killinux/kaldi-wasm
